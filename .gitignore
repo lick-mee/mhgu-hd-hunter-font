@@ -7,3 +7,4 @@ upscale/upscaled/*
 *.gfd
 *.tex
 __pycache__/
+dist/
