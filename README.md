@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="docs/logo.png" alt="MHGU HD Hunter Font" width="320">
-</p>
-
-<p align="center">
-  Sharp, high-resolution in-game text for <b>Monster Hunter Generations Ultimate</b> on MHGU Recomp.
+  <img src="docs/banner.png" alt="MHGU HD Hunter Font: sharp, high-resolution in-game text for Monster Hunter Generations Ultimate on MHGU Recomp" width="100%">
 </p>
 
 <p align="center">
