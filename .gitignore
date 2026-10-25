@@ -1,0 +1,9 @@
+# Game data and anything made from it stays local
+upscale/original/*
+upscale/upscaled/*
+!upscale/original/.gitkeep
+!upscale/upscaled/.gitkeep
+*.arc
+*.gfd
+*.tex
+__pycache__/
