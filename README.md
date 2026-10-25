@@ -1,6 +1,14 @@
-# HD Hunter Font
+<p align="center">
+  <img src="docs/logo.png" alt="MHGU HD Hunter Font" width="320">
+</p>
 
-Sharp, high-resolution in-game text for **Monster Hunter Generations Ultimate** on MHGU Recomp.
+<p align="center">
+  Sharp, high-resolution in-game text for <b>Monster Hunter Generations Ultimate</b> on MHGU Recomp.
+</p>
+
+<p align="center">
+  <a href="https://github.com/lick-mee/mhgu-hd-hunter-font/releases/latest"><b>Download the latest release</b></a>
+</p>
 
 At 1440p and 4K the game stretches its Switch-sized font, so menus and dialogue look soft and pixelly. HD Hunter Font replaces it with a 2× version: same typeface, same layout, crisp edges.
 
