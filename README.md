@@ -6,6 +6,8 @@
   <a href="https://github.com/lick-mee/mhgu-hd-hunter-font/releases/latest"><b>Download the latest release</b></a>
 </p>
 
+A font mod for [MHGU Recomp](https://github.com/morerokk/MHGURecomp), the PC port of Monster Hunter Generations Ultimate.
+
 At 1440p and 4K the game stretches its Switch-sized font, so menus and dialogue look soft and pixelly. HD Hunter Font replaces it with a 2× version: same typeface, same layout, crisp edges.
 
 ![Vanilla vs HD Hunter Font: the Bherna Chief's dialogue at 4K](docs/compare_dialogue.png)
@@ -15,7 +17,7 @@ At 1440p and 4K the game stretches its Switch-sized font, so menus and dialogue 
 ## Install
 
 1. Download `hd-hunter-font-v1.0.0.zip` from [Releases](https://github.com/lick-mee/mhgu-hd-hunter-font/releases).
-2. Extract the `zz-hd-hunter-font` folder into the recomp's `mods` folder.
+2. Extract the `zz-hd-hunter-font` folder into the `mods` folder of [MHGU Recomp](https://github.com/morerokk/MHGURecomp).
 3. Double-click `install.bat` inside it, once.
 4. Start the game.
 
@@ -52,6 +54,8 @@ The `zz-` folder name makes the font load after the HD mods, which it needs to.
 `tools/` has the scripts used to make the font (Python 3 + numpy).
 
 ## Thanks
+
+[MHGU Recomp](https://github.com/morerokk/MHGURecomp), which this mod is made for.
 
 HD texture mods: [MHGU HD Project](https://github.com/Monkbreh/MHGU-HD-Project) and Pixel Pack.
 
